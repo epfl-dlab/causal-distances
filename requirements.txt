@@ -15,7 +15,7 @@ kiwisolver==1.0.1
 MarkupSafe==1.1.1
 matplotlib==3.0.3
 networkx==2.4
-numpy==1.16.1
+numpy==1.22.0
 nuts @ git+https://github.com/mfouesneau/NUTS.git@377a17ec1ac24a8bd42e2bd686f033c9fa57f410
 pandas==0.24.2
 patsy==0.5.1
