@@ -25,7 +25,7 @@ pyaml==19.4.1
 pyemd==0.5.1
 pykwalify==1.7.0
 pyparsing==2.3.1
-pyspark==2.4.5
+pyspark==3.2.2
 python-dateutil==2.8.0
 pytz==2018.9
 PyYAML==5.1
